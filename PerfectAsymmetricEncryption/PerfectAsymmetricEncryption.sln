@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectAsymmetricEncryption", "PerfectAsymmetricEncryption\PerfectAsymmetricEncryption.csproj", "{6D803831-9824-404C-87B8-DB5617A578A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymataricEncryptionDemo", "..\SymataricEncryptionDemo\SymataricEncryptionDemo\SymataricEncryptionDemo.csproj", "{A24989E1-F2C8-44F2-A585-6E7776473CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateHashValue", "..\GenerateHashValue\GenerateHashValue\GenerateHashValue.csproj", "{9AC0C9F6-5659-4F4F-B361-677B861B714A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDigitalSignature", "XMLDigitalSignature\XMLDigitalSignature.csproj", "{73091A5B-9FDF-4886-BC99-2D28D929D872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedDataSecretKeys", "..\ProtectedDataSecretKeys\ProtectedDataSecretKeys\ProtectedDataSecretKeys.csproj", "{A25E1501-51F0-4A50-9074-450580CCF04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D803831-9824-404C-87B8-DB5617A578A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D803831-9824-404C-87B8-DB5617A578A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D803831-9824-404C-87B8-DB5617A578A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D803831-9824-404C-87B8-DB5617A578A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24989E1-F2C8-44F2-A585-6E7776473CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24989E1-F2C8-44F2-A585-6E7776473CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24989E1-F2C8-44F2-A585-6E7776473CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24989E1-F2C8-44F2-A585-6E7776473CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC0C9F6-5659-4F4F-B361-677B861B714A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC0C9F6-5659-4F4F-B361-677B861B714A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC0C9F6-5659-4F4F-B361-677B861B714A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC0C9F6-5659-4F4F-B361-677B861B714A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73091A5B-9FDF-4886-BC99-2D28D929D872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73091A5B-9FDF-4886-BC99-2D28D929D872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73091A5B-9FDF-4886-BC99-2D28D929D872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73091A5B-9FDF-4886-BC99-2D28D929D872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25E1501-51F0-4A50-9074-450580CCF04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25E1501-51F0-4A50-9074-450580CCF04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25E1501-51F0-4A50-9074-450580CCF04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25E1501-51F0-4A50-9074-450580CCF04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E5280DF-8570-4300-B08B-57725382DDA2}
+	EndGlobalSection
+EndGlobal

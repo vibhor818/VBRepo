@@ -1,0 +1,13 @@
+﻿<Application x:Class="WPFDemo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFDemo"
+             StartupUri="Window1.xaml">
+    <Application.Resources>
+        <RadialGradientBrush x:Key="myKey">
+            <GradientStop Color="#FF9494BA"/>
+            <GradientStop Color="#FF848351" Offset="1"/>
+            <GradientStop Color="#FFD4BCBA" Offset="0.504"/>
+        </RadialGradientBrush>
+    </Application.Resources>
+</Application>
